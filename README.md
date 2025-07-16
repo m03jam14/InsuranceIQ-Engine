@@ -1,12 +1,5 @@
 # InsuranceIQ-Engine
 
-Based on your R code for the Insurance Cost Predictor project, here's a comprehensive LinkedIn README post following the format you requested:
-
----
-
-# Insurance Cost Predictor
-
-A comprehensive statistical analysis tool built with R programming language, demonstrating advanced data visualization and predictive modeling capabilities for healthcare insurance cost prediction based on BMI factors.
 
 ## Overview
 
